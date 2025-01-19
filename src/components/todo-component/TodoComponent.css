@@ -1,0 +1,6 @@
+.completed {
+    color: darkcyan;
+}
+.non-completed {
+    color: darkred;
+}
