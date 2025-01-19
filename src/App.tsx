@@ -1,12 +1,10 @@
-import './App.css'
+import {TodoComponents} from "./components/todo-componets/TodoComponents.tsx";
 
 function App() {
-
-  return (
-    <>
-
-    </>
-  )
+    return (
+        <>
+            <TodoComponents/>
+        </>
+    );
 }
-
 export default App

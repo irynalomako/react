@@ -1,0 +1,6 @@
+.complete {
+    color: green;
+}
+.non-complete {
+    color: darkred;
+}
